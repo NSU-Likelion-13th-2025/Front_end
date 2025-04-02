@@ -48,7 +48,7 @@
 ---
 
 ## 📫 Contact
-- GitHub: [[github.com/your-id](https://github.com/your-id](https://github.com/NSU-Likelion-13th-2025/Front_end.git))
+- GitHub: [github.com/your-id](https://github.com/your-id](https://github.com/NSU-Likelion-13th-2025/Front_end.git)
 - 운영진 이메일
 - 혜빈: hye779421@gmail.com
 - 성호: stdio.hoyaa@gmail.com
