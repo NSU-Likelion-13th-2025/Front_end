@@ -49,10 +49,10 @@
 
 ## 📫 Contact
 - GitHub: (https://github.com/your-id](https://github.com/NSU-Likelion-13th-2025/Front_end.git)
-- 운영진 이메일
-- 혜빈: hye779421@gmail.com
-- 성호: stdio.hoyaa@gmail.com
-- 상우: qhdsay1234@naver.com
+
+- 😴혜빈 Email : hye779421@gmail.com
+- 😎성호 Email : stdio.hoyaa@gmail.com
+- 🤠상우 Email : qhdsay1234@naver.com
 ---
 
 > 함께 성장하는 개발자, 함께 나누는 코드  
