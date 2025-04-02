@@ -1,4 +1,4 @@
-# 🦁 LikeLion - 프론트엔드 개발자 공간
+# 🦁 멋쟁이 사자처럼 - 프론트엔드 개발자 공간
 
 > **"코드를 통해 세상을 더 멋지게 만들다."**  
 > 멋쟁이 사자처럼 프론트엔드 개발자로서 성장하고 있는 공간입니다.  
@@ -48,9 +48,11 @@
 ---
 
 ## 📫 Contact
-- GitHub: [github.com/your-id](https://github.com/your-id)
-- Email: your.email@example.com
-
+- GitHub: [[github.com/your-id](https://github.com/your-id](https://github.com/NSU-Likelion-13th-2025/Front_end.git))
+- 운영진 이메일
+- 혜빈: hye779421@gmail.com
+- 성호: stdio.hoyaa@gmail.com
+- 상우: qhdsay1234@naver.com
 ---
 
 > 함께 성장하는 개발자, 함께 나누는 코드  
